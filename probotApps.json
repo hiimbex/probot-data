@@ -1,0 +1,1568 @@
+{
+  "patterns": {
+    "findPattern": "installations: ",
+    "pathsPattern": ""
+  },
+  "results": {
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/auto-assign.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/auto-assign.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 28",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://kentaro-m-auto-assign.glitch.me/",
+            "stars: 5",
+            "updated: 2018-10-08 05:42:42 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- ahmadnassri",
+            "- PHPOffice"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/auto-comment.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/auto-comment.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 9",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://auto-comment.now.sh",
+            "stars: 3",
+            "updated: 2018-09-19 20:40:21 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- adonisjs",
+            "- IntellectualSites"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/background-check.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/background-check.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 13",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-background-check.herokuapp.com",
+            "stars: 8",
+            "updated: 2018-08-11 14:06:36 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- probot",
+            "- debugger22"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/close-issue.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/close-issue.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 11",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://close-issue-app.herokuapp.com",
+            "stars: 9",
+            "updated: 2018-10-10 04:43:31 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- android-hacker",
+            "- coreos"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/commitlint.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/commitlint.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 80",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-commitlint.now.sh",
+            "stars: 85",
+            "updated: 2018-07-08 20:02:14 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- skylot",
+            "- caarlos0"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/dco.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/dco.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 378",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 16,
+              "column": 0
+            },
+            "end": {
+              "row": 16,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "repository: probot/dco",
+            "updated: 2018-10-10 04:11:56 UTC",
+            "host: https://probot-dco.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- prometheus",
+            "- hyperledger"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/delete-merged-branch.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/delete-merged-branch.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 149",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://delete-merged-branch.now.sh",
+            "stars: 21",
+            "updated: 2018-10-04 08:08:38 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- reactiveui",
+            "- yoshuawuyts"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/dep.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/dep.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 87",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-dep.now.sh",
+            "stars: 43",
+            "updated: 2018-08-12 07:47:54 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- AvaloniaUI",
+            "- verdaccio"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/deploy.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/deploy.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 5",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-deploy-dotcom.now.sh",
+            "stars: 5",
+            "updated: 2018-09-16 18:36:32 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- mdelagrange",
+            "- helaili"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/duplicator.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/duplicator.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 6",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 14,
+              "column": 0
+            },
+            "end": {
+              "row": 14,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://rapid-sousaphone.glitch.me",
+            "stars: 2",
+            "updated: 2018-07-06 02:21:05 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- opensourcecities",
+            "---"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/eslint-disable.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/eslint-disable.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 16",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://eslint-disable-probot.herokuapp.com",
+            "stars: 15",
+            "updated: 2018-04-17 09:00:30 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- thibmaek",
+            "- ember-intl"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/first-timers.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/first-timers.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 238",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "repository: hoodiehq/first-timers-bot",
+            "updated: 2018-10-10 15:35:37 UTC",
+            "host: https://first-timers-bot.now.sh"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- jekyll",
+            "- videojs"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/gitpod.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/gitpod.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 10",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://gitpod-bot.now.sh",
+            "stars: 2",
+            "updated: 2018-09-14 12:30:11 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- TypeFox",
+            "- theia-ide"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/helpr.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/helpr.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 19",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://evening-depths-50399.herokuapp.com",
+            "stars: 4",
+            "updated: 2018-04-20 09:11:34 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- Glavin001",
+            "- tox-dev"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/invite-contributors.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/invite-contributors.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 24",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "stars: 20",
+            "updated: 2018-05-05 14:10:11 UTC",
+            "host: https://vast-stream-78160.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- nteract",
+            "- stylelint"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/issue-complete.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/issue-complete.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 5",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://issue-complete.glitch.me",
+            "stars: 2",
+            "updated: 2018-07-16 16:14:29 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- Maatwebsite",
+            "---"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/issuelabeler.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/issuelabeler.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 14",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://1th3h69bkc.execute-api.ap-southeast-1.amazonaws.com/production",
+            "stars: 2",
+            "updated: 2018-09-26 19:50:03 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- pymc-devs",
+            "- Provenance-Emu"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/linter-alex.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/linter-alex.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 22",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://linter-alex.herokuapp.com",
+            "stars: 61",
+            "updated: 2018-10-10 15:31:45 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- probot",
+            "- git-for-windows"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/lock.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/lock.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 113",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-lock-threads.glitch.me",
+            "stars: 49",
+            "updated: 2018-10-03 03:09:54 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- facebook",
+            "- Microsoft"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/markdownify.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/markdownify.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 5",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://desolate-river-85665.herokuapp.com",
+            "stars: 0",
+            "updated: 2018-09-06 02:17:48 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- probot",
+            "- behaviorbot"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/mergeable.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/mergeable.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 28",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://mergeable-bot.herokuapp.com",
+            "stars: 81",
+            "updated: 2018-10-09 07:48:25 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- grpc",
+            "- rundeck"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/minimum-reviews.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/minimum-reviews.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 9",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://horn-produce.glitch.me/",
+            "stars: 6",
+            "updated: 2018-07-06 02:19:39 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- divyenduz",
+            "- aidminutes"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/move.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/move.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 92",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-move-issues.glitch.me",
+            "stars: 29",
+            "updated: 2018-10-03 03:04:40 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- ethereum",
+            "- Homebrew"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/no-response.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/no-response.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 130",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-no-response.herokuapp.com",
+            "stars: 39",
+            "updated: 2018-10-04 17:24:42 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- atom",
+            "- Homebrew"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/ooo.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/ooo.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 28",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-ooo.herokuapp.com",
+            "stars: 20",
+            "updated: 2018-01-06 15:08:10 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- CachetHQ",
+            "- Laravel-Backpack"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/polls.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/polls.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 170",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 14,
+              "column": 0
+            },
+            "end": {
+              "row": 14,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://gh-polls-bot.now.sh",
+            "stars: 138",
+            "updated: 2018-01-15 01:35:10 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- apex",
+            "- Automattic"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/pr-triage.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/pr-triage.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 32",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 14,
+              "column": 0
+            },
+            "end": {
+              "row": 14,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://pr-triage.glitch.me",
+            "stars: 12",
+            "updated: 2018-10-10 08:09:47 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- kazupon",
+            "- HcySunYang"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/prevent-public-repos.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/prevent-public-repos.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 74",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-prevent-public-repos.herokuapp.com",
+            "stars: 13",
+            "updated: 2018-05-31 19:56:19 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- dollarshaveclub",
+            "- bkeepers"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/profanity.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/profanity.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 8",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-profanity.now.sh",
+            "stars: 7",
+            "updated: 2018-08-27 17:02:44 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- tipeio",
+            "- micalevisk"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/pull.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/pull.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 104",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://pull.now.sh",
+            "stars: 47",
+            "updated: 2018-09-30 14:56:11 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- wei",
+            "- nmrony"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/reaction.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/reaction.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 35",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-reaction-comments.glitch.me",
+            "stars: 9",
+            "updated: 2018-10-03 03:16:23 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- zealdocs",
+            "- invertase"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/release-drafter.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/release-drafter.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 94",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://release-drafter.now.sh",
+            "stars: 297",
+            "updated: 2018-10-09 06:31:33 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- gorilla",
+            "- reactiveui"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/reminders.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/reminders.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 288",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "stars: 40",
+            "updated: 2018-09-26 19:50:12 UTC",
+            "host: https://probot-reminders.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- i0natan",
+            "- eggjs"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/remove-outside-collaborators.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/remove-outside-collaborators.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 15",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://remove-outside-collaborators.herokuapp.com",
+            "stars: 5",
+            "updated: 2018-08-08 15:57:39 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- times",
+            "- pivotal"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/request-info.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/request-info.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 173",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "repository: behaviorbot/request-info",
+            "updated: 2018-10-10 05:29:02 UTC",
+            "host: https://probot-request-info.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- webtorrent",
+            "- standard"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/semantic-pull-requests.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/semantic-pull-requests.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 59",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 15,
+              "column": 0
+            },
+            "end": {
+              "row": 15,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-semantic-pull-requests.herokuapp.com",
+            "stars: 29",
+            "updated: 2018-10-01 17:59:51 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- electron",
+            "- monicahq"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/sentiment-bot.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/sentiment-bot.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 86",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "repository: behaviorbot/sentiment-bot",
+            "updated: 2018-10-10 05:46:16 UTC",
+            "host: https://probot-sentiment-bot.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- nlohmann",
+            "- probot"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/settings.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/settings.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 207",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "- https://user-images.githubusercontent.com/173/29472917-3fad9db0-841b-11e7-8f6d-a6c63052122b.png",
+            "updated: 2018-09-26 19:51:48 UTC",
+            "host: https://github-configurer.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- apollographql",
+            "- denysdovhan"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/similar-code-searcher.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/similar-code-searcher.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 10",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://similer-code-searcher.glitch.me",
+            "stars: 2",
+            "updated: 2018-07-20 08:16:20 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- duncdrum",
+            "- r37r0m0d3l"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/stale.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/stale.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 1145",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "repository: probot/stale",
+            "updated: 2018-10-06 20:51:00 UTC",
+            "host: https://probot-stale.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- facebook",
+            "- sebastianbergmann"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/support.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/support.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 38",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://probot-support-requests.glitch.me",
+            "stars: 13",
+            "updated: 2018-10-03 02:40:14 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- Homebrew",
+            "- mui-org"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/tap-release.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/tap-release.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 5",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://tap-release.now.sh",
+            "stars: 17",
+            "updated: 2018-10-09 06:31:49 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- infection",
+            "- AugurProject"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/tests-checker.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/tests-checker.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 4",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://tests-checker.now.sh",
+            "stars: 21",
+            "updated: 2018-09-28 21:13:42 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- infection",
+            "- borNfreee"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/todo.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/todo.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 322",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://todo-github-app.now.sh",
+            "stars: 182",
+            "updated: 2018-10-05 17:01:25 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- mikeal",
+            "- nteract"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/triage-new-issues.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/triage-new-issues.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 64",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 16,
+              "column": 0
+            },
+            "end": {
+              "row": 16,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://triage-new-issues.now.sh",
+            "stars: 12",
+            "updated: 2018-09-29 21:40:57 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- CachetHQ",
+            "- Semantic-Org"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/unfurl-links.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/unfurl-links.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 141",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: http://probot-unfurl.herokuapp.com",
+            "stars: 42",
+            "updated: 2018-10-09 05:00:10 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- reactiveui",
+            "- apereo"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/untrivializer.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/untrivializer.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 9",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://puffy-aftermath.glitch.me",
+            "stars: 5",
+            "updated: 2018-09-27 01:14:12 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- red-eclipse",
+            "- BlueBayTravel"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/update-docs.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/update-docs.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 33",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 13,
+              "column": 0
+            },
+            "end": {
+              "row": 13,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "repository: behaviorbot/update-docs",
+            "updated: 2018-10-06 23:00:27 UTC",
+            "host: https://probot-update-docs.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- adonisjs",
+            "- u3u"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/weekly-digest.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/weekly-digest.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 42",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://weekly-digest.now.sh",
+            "stars: 38",
+            "updated: 2018-09-07 16:06:47 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- nock",
+            "- git-for-windows"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/welcome.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/welcome.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 303",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 14,
+              "column": 0
+            },
+            "end": {
+              "row": 14,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "repository: behaviorbot/welcome",
+            "updated: 2018-06-20 22:26:35 UTC",
+            "host: https://probot-welcome.herokuapp.com"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- vuejs",
+            "- electron"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/wip.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/wip.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 1366",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 12,
+              "column": 0
+            },
+            "end": {
+              "row": 12,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "stars: 300",
+            "updated: 2018-10-04 08:46:33 UTC",
+            "host: https://wip-bot.now.sh"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- electron",
+            "- dotnet"
+          ]
+        }
+      ]
+    },
+    "/Users/hiimbex/Desktop/probot.github.io/_apps/yamburger.md": {
+      "filePath": "/Users/hiimbex/Desktop/probot.github.io/_apps/yamburger.md",
+      "matches": [
+        {
+          "matchText": "installations: ",
+          "lineText": "installations: 11",
+          "lineTextOffset": 0,
+          "range": {
+            "start": {
+              "row": 14,
+              "column": 0
+            },
+            "end": {
+              "row": 14,
+              "column": 15
+            }
+          },
+          "leadingContextLines": [
+            "host: https://yamburger.now.sh",
+            "stars: 17",
+            "updated: 2018-09-08 13:41:00 UTC"
+          ],
+          "trailingContextLines": [
+            "organizations:",
+            "- urcomputeringpal",
+            "- redhat-developer"
+          ]
+        }
+      ]
+    }
+  }
+}
